@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/apple"
+        android:title="Apple"
+        android:icon="@drawable/ic_android_black_24dp"/>
+
+    <item android:id="@+id/banana"
+        android:title="Banana"
+        android:icon="@drawable/ic_android_black_24dp"/>
+
+    <item android:id="@+id/melon"
+        android:title="Melon"
+        android:icon="@drawable/ic_android_black_24dp"/>
+
+</menu>
